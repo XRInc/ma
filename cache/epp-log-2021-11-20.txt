@@ -1,0 +1,13 @@
+[2021-11-20 00:51:45]{"main_page":"checkout_result","orderNumber":"KA176WE-10000013","state":"completed","invoiceNumber":"65b8052ad4b63743480d0eb1fae8771d"}
+[2021-11-20 04:17:56]{"main_page":"checkout_result","orderNumber":"KA176WE-10000018","state":"Got Http response code 400 when accessing https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-MGMAMYY9G9409473B0055409\/execute.","invoiceNumber":"d829a014886183ee66d754d454644bc5"}
+[2021-11-20 04:58:05]{"main_page":"checkout_result","orderNumber":"KA176WE-10000020","state":"Got Http response code 400 when accessing https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-MGMA63Q3JY341489R3433259\/execute.","invoiceNumber":"f15eb3d79f66aa3cae7f18f30f9b3b6f"}
+[2021-11-20 07:13:29]{"main_page":"checkout_result","orderNumber":"KA176WE-10000021","state":"Got Http response code 400 when accessing https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-MGMC67I3LB389179N437351C\/execute.","invoiceNumber":"702191eb2a90b52139b4b04b7fd40178"}
+[2021-11-20 07:14:12]{"main_page":"checkout_result","orderNumber":"KA176WE-10000022","state":"completed","invoiceNumber":"2b4e9faca08bde08753a3770f0378969"}
+[2021-11-20 10:22:49]{"main_page":"checkout_result","orderNumber":"KA176WE-10000024","state":"completed","invoiceNumber":"bd8c1bb923a97828970038b49acd3c4a"}
+[2021-11-20 10:33:35]{"main_page":"checkout_result","orderNumber":"KA176WE-10000025","state":"completed","invoiceNumber":"1a478f345df08d19c76a31a6323818e3"}
+[2021-11-20 10:48:16]{"main_page":"checkout_result","orderNumber":"KA176WE-10000026","state":"completed","invoiceNumber":"f5f2e1359d6b58b66d6f7867782eb620"}
+[2021-11-20 11:55:04]{"main_page":"checkout_result","orderNumber":"KA176WE-10000027","state":"completed","invoiceNumber":"9b6dbd64c1ee77a854712d39e5722efa"}
+[2021-11-20 12:34:56]{"main_page":"checkout_result","orderNumber":"KA176WE-10000028","state":"completed","invoiceNumber":"3f11844bf2bd1fa064019c7a9c4659f2"}
+[2021-11-20 12:49:10]{"main_page":"checkout_result","orderNumber":"KA176WE-10000033","state":"completed","invoiceNumber":"41d5820797302b0a601598a678bb3dc4"}
+[2021-11-20 12:49:39]{"main_page":"checkout_result","orderNumber":"KA176WE-10000031","state":"completed","invoiceNumber":"a244dd9377d5a88387ddcd8522b01e0e"}
+[2021-11-20 23:22:42]{"main_page":"checkout_result","orderNumber":"KA176WE-10000036","state":"Got Http response code 400 when accessing https:\/\/api.paypal.com\/v1\/payments\/payment\/PAYID-MGMRE3I63U316736R5191126\/execute.","invoiceNumber":"743c8d4beb9c89b69677bff551c68dab"}
