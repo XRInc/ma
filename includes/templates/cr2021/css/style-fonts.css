@@ -1,0 +1,36 @@
+/* Open Sans ====================================================================== */
+@font-face {font-family:'Open Sans'; font-style:normal; font-weight:normal; src:url('Open Sans.eot'); src:local('Open Sans'), url('Open Sans.woff') format('woff');}
+/* ======================================================================================= */
+/* GalanoGrotesque-Bold ====================================================================== */
+/*@font-face {
+    font-family: "GalanoGrotesque-Bold";
+    font-style: normal;
+    font-weight: normal;
+    src: url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-Bold.eot?#iefix&yocs=_&yoloc=ap") format("embedded-opentype"), url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-Bold.woff?yocs=h_&yoloc=ap") format("woff"), url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-Bold.ttf?yocs=_&yoloc=ap") format("truetype"), url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-Bold.svg#GalanoGrotesque-Bold?yocs=_&yoloc=ap") format("svg");
+}*/
+/* ======================================================================================= */
+/* GalanoGrotesque-Regular ====================================================================== */
+/*@font-face {
+    font-family: "GalanoGrotesque-Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-Regular.eot?#iefix&yocs=_&yoloc=ap") format("embedded-opentype"), url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-Regular.woff?yocs=h_&yoloc=ap") format("woff"), url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-Regular.ttf?yocs=_&yoloc=ap") format("truetype"), url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-Regular.svg#GalanoGrotesque-Regular?yocs=_&yoloc=ap") format("svg");
+}*/
+/* ======================================================================================= */
+/* GalanoGrotesque-SemiBold ====================================================================== */
+/*@font-face {
+    font-family: "GalanoGrotesque-SemiBold";
+    font-style: normal;
+    font-weight: normal;
+    src: url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-SemiBold.eot?#iefix&yocs=_&yoloc=ap") format("embedded-opentype"), url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-SemiBold.woff?yocs=h_&yoloc=ap") format("woff"), url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-SemiBold.ttf?yocs=_&yoloc=ap") format("truetype"), url("//cdn-ap-cf2.yottaa.net/59848861312e58568ab86da7/www.hydroflask.com/v~19.78/skin/frontend/hydroflask/default/fonts/GalanoGrotesque-SemiBold.svg#GalanoGrotesque-SemiBold?yocs=_&yoloc=ap") format("svg");
+}*/
+/* ======================================================================================= */
+/* Raleway ====================================================================== */
+@font-face {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Raleway"), local("Raleway-Regular"), url("https://fonts.gstatic.com/s/raleway/v12/0dTEPzkLWceF7z0koJaX1A.woff2") format("woff2");
+    unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+/* ======================================================================================= */
